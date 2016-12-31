@@ -1,4 +1,12 @@
 # USB_Virus_Remover
+more info on these sites
+http://dotsisteam.blogspot.in/2014/01/autorunlnketc-virus-remover-simple.html
+on Softpedia
+www.softpedia.com/get/Antivirus/Removal-Tools/Autorun-lnk-shortcut-etc-usb-virus-remover.shtml
+On CNET
+http://download.cnet.com/USB-Virus-Remover/3000-2239_4-76097827.html
+
+
 A simple software to delete the virus  on your usb drive& system
 Successfully made it to auto-remove virus from pen-drive & Infected PC ,no need to insert drive letter it will do it's work by own. ;)
 
