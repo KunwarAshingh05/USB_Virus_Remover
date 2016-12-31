@@ -51,7 +51,7 @@ del /S %%i"*booty*".*
 
 
 
-prn_deleter.bat > deleted_files_usb.txt 2>&1
+prn_del.bat > deleted_files_usb.txt 2>&1
 
 
 

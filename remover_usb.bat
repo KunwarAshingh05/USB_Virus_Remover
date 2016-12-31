@@ -34,6 +34,7 @@ cls
 echo.
 del  /F %%iautorun.exe
 del  /F %%iRecycle*.exe
+del  /F %%iporn*.exe
 del  /F %%isystem*.exe
 del /F %%iltrlrtnrut.vbs
 del  /F %%info.exe
